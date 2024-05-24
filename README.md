@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m @KevinHuge,an undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn)
+- 👋 Hi, I’m @KevinHuge,an undergraduate student at [SUSTech](https://www.sustech.edu.cn)
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning some basic computer knowledge by taking CTF
 
