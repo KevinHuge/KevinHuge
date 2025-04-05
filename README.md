@@ -9,9 +9,8 @@
 - 📫: a2V2aW5odWdlMjAwNUBnbWFpbC5jb20=
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinHuge)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuge)](https://github.com/anuraghazra/github-readme-stats)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinHuge&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuge&theme=tokyonight)
 <!---
 KevinHuge/KevinHuge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
