@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I’m [@KevinHuge](https://github.com/KevinHuge), an undergraduate student at [SUSTech](https://www.sustech.edu.cn)
-- 👀 I’m interested in CyberSecurity, Trustworthy AI and ...
+- 👀 I’m interested in Foundation Models, Trustworthy AI and ...
 - 🌱 I’m currently taking CTF competitions in my spare time for fun
 
 
