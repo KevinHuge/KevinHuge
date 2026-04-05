@@ -6,7 +6,7 @@
 
 
 ## How To Reach Me
-- 📫: a2V2aW5odWdlMjAwNUBnbWFpbC5jb20=
+- 📫: houzy2023@mail.sustech.edu.cn
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinHuge&show_icons=true&theme=tokyonight)
