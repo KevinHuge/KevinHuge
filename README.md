@@ -1,6 +1,6 @@
 ## About Me
 - Hi, I’m [@KevinHuge](https://github.com/KevinHuge), a 3rd year undergraduate student at [SUSTech](https://www.sustech.edu.cn).
-- My research interests include Efficient AI, Trustworthy AI, especially in the areas of model compression and model provenance. I am also interested in VLA models and world models.
+- My research interests include Efficient AI, Video Generation/Editing and World (Action) Models
 
 ~I’m currently taking CTF competitions in my spare time for fun.~
 
