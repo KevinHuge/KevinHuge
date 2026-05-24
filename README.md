@@ -1,6 +1,6 @@
 ## About Me
 - Hi, I’m [@KevinHuge](https://github.com/KevinHuge), a 3rd year undergraduate student at [SUSTech](https://www.sustech.edu.cn).
-- My research interests include Efficient AI, Video Generation/Editing and World (Action) Models
+- My research interests include Efficient AI, Video Generation/Reasoning and World (Action) Models
 
 ~I’m currently taking CTF competitions in my spare time for fun.~
 
