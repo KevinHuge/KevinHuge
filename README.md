@@ -1,5 +1,5 @@
 ## About Me
-- Hi, I’m [@KevinHuge](https://github.com/KevinHuge), a 3rd year undergraduate student at [SUSTech](https://www.sustech.edu.cn).
+- Hi, I’m [@KevinHuge](https://github.com/KevinHuge), a fourth-year undergraduate student at [SUSTech](https://www.sustech.edu.cn/en).
 - My research interests include Efficient AI, Generative AI and Agentic AI.
 
 - ~~I’m currently taking CTF competitions in my spare time for fun.~~
